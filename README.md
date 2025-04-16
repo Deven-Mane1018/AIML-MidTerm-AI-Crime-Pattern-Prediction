@@ -1,4 +1,4 @@
-# AIML-MidTerm-AI-Crime-Pattern-Prediction
+# AIML-MidTerm
 
 # 🛡️ AI-Powered Crime Pattern Predictor & Prevention Assistant
 
