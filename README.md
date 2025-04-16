@@ -88,7 +88,6 @@ This project aims to:
 
 ## 🧱 System Architecture
 
-```mermaid
 graph TD
   UI[Frontend (React + Tailwind)]
   API[Flask REST API]
